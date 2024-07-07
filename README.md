@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Aguirre</h1>
 <h3 align="center">< Backend developer, passionate for technology and with an infinite curiosity /></h3>
 
-- 🌱 I’m currently learning **about frontend technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
