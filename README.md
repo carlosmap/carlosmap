@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center" style="background: white;"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="background-color:white; border-radius:5px; margin:3px "> 
+    <a href="https://www.w3.org/html/" target="_new" rel="noreferrer" style="background-color:white; border-radius:5px; margin:3px "> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70" title="HTML5" style="background-color:white; padding:2px" /></a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70" title="CSS3" style="background-color:white; padding:2px" /></a> 
