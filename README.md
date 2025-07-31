@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/carlosmap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlosmap" height="50" width="60" title="X" /></a>
+<a href="https://x.com/carlosmap" target="blank"><img align="center" src="https://www.pngall.com/wp-content/uploads/17/X-Logo-Artistic-Representation-Style-PNG.png" alt="carlosmap" height="50" width="60" title="X" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
